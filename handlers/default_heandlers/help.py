@@ -8,7 +8,7 @@ from loader import bot
 @bot.message_handler(commands=['help'])
 def get_help(message: str) -> None:
     """
-    ВЫВОД для команда help
+    Вывод для команда help
     :param message:
     :return:
     """

@@ -1,1 +1,1 @@
-from . import photo_keyboards
+from . import setting_keyboards

@@ -5,7 +5,7 @@ from loader import bot
 @bot.message_handler(commands=['start'])
 def get_start(message: Message) -> None:
     """
-    ВЫВОД для команда start
+    Вывод для команда start
     :param message:
     :return:
     """
